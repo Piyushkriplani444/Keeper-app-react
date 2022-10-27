@@ -4,7 +4,7 @@ function Notes(){
     return (
         <div className="note">
           <h1>For the title</h1>
-          <p>For the content</p>
+          <p>For the content to be added in here</p>
         </div>
     );
 }
